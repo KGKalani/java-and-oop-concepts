@@ -3,18 +3,17 @@ package kgk.main.java.oop.concepts.interfaceconcept;
 /**
  * It is used to achieve the abstraction
  * This support multiple inheritance
- * > Java compiler adds
- *      -- public and abstract keywords before the interface methods
- *      -- public, static and final keywords before the data members
- * > Since java 8,
- *      -- Interface can have methods with method body. But those methods should be default
- *      -- Interface can have static methods too
  *
  * Interface which has no members are called as Marker/Tagged interfaces. e.g. Serializable, Cloneable
  */
 public class InterfaceDemo {
 
     public static void demo(){
+        /*
+            Interface cannot be instantiated
+         */
+        //Drawable d = new Drawable();
+
         Drawable drawable = new Rectangle();
         drawable.draw();
 
