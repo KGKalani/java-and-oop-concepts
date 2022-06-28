@@ -17,9 +17,9 @@ public class WrapperClassDemo {
         customWrapperDemo();
     }
 
-    /*
-    Java program to convert primitive into objects
-    Autoboxing example of int to Integer
+    /**
+     * Java program to convert primitive into objects
+     * Autoboxing example of int to Integer
      */
     public static void autoboxingDemo(){
         System.out.println("***** autoboxing *****");
@@ -32,9 +32,8 @@ public class WrapperClassDemo {
 
     }
 
-    /*
-     Java program to convert object into primitives
-    Unboxing example of Integer to int
+    /**
+     * Java program to convert object into primitivesUnboxing example of Integer to int
     */
     public static void unboxingDemo(){
         System.out.println("\n***** unboxing *****");
@@ -45,8 +44,8 @@ public class WrapperClassDemo {
         System.out.println("aInteger = " + aInteger + "\na = " + a + "\nj = " + j);
     }
 
-    /*
-    Custom wrapper class demo
+    /**
+     * Custom wrapper class demo
      */
     public static void customWrapperDemo(){
         System.out.println("\n***** Custom Wrapper Class Demo *****");
