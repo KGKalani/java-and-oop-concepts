@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.interfaceconcept;
+package main.java.com.kgk.oop.interfaceconcept;
 
 /**
  * It is used to achieve the abstraction

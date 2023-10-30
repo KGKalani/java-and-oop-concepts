@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.polymorphism;
+package main.java.com.kgk.oop.polymorphism;
 
 /**
  * > If subclass (child class) has the same method as declared in the parent class,

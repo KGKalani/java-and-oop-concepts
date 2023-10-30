@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.interfaceconcept;
+package main.java.com.kgk.oop.interfaceconcept;
 
 public class Rectangle implements Drawable,Printable{
     @Override

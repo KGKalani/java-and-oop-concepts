@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.polymorphism;
+package main.java.com.kgk.oop.polymorphism;
 
 /**
  * If a class has multiple methods with same name but different parameters,

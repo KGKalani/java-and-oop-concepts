@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.abstraction;
+package main.java.com.kgk.oop.abstraction;
 
 import main.java.com.kgk.dashboard.LargeWidget;
 import main.java.com.kgk.dashboard.SmallWidget;

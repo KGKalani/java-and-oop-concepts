@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.polymorphism;
+package main.java.com.kgk.oop.polymorphism;
 
 /**
  * Polymorphism is a concept which we can perform a single action in different ways

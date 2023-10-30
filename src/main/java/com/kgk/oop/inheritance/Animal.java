@@ -1,4 +1,4 @@
-package main.java.com.kgk.concepts.oop.inheritance;
+package main.java.com.kgk.oop.inheritance;
 
 public class Animal {
     public void eat(){
